@@ -1,0 +1,4 @@
+ - As a user, I want to be able to type down my thoughts.
+ - As a user, I want to be able to save my typed work so that I can revisit them later.
+ - As a user, I want to be able to copy and paste text so that I can quickly organise my work.
+ - As a user, I want to be able to search my work for text so that I can quickly find certain thoughts,
